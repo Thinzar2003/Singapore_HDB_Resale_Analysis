@@ -131,7 +131,7 @@ Singapore_HDB_Resale_Analysis/
 **Thinzar Su Hlaing** — IT Graduate | Data Science & AI
 
 [![GitHub](https://img.shields.io/badge/GitHub-Thinzar2003-181717?style=flat&logo=github)](https://github.com/Thinzar2003)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/thinzar-su-hlaing-9b0361204/)
 
 ---
 
